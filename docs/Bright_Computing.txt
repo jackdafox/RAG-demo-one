@@ -1,0 +1,61 @@
+Bright Computing, Inc. was a developer of software for deploying and managing high-performance (HPC) clusters, Kubernetes clusters, and OpenStack private clouds in on-premises data centers as well as in the public cloud. In 2022, it was acquired by Nvidia.
+
+
+History
+
+Bright Computing was founded by Matthijs van Leeuwen in 2009, who spun the company out of ClusterVision, which he had co-founded with Alex Ninaber and Arijan Sauer. Alex and Matthijs had worked together at UK’s Compusys, which was one of the first companies to commercially build HPC clusters. They left Compusys in 2002 to start ClusterVision in the Netherlands, after determining there was a growing market for building and managing supercomputer clusters using off-the-shelf hardware components and open source software, tied together with their own customized scripts. ClusterVision also provided delivery and installation support services for HPC clusters at universities and government entities.
+
+
+In 2004, Martijn de Vries joined ClusterVision and began development of cluster management software. The software was made available to customers in 2008, under the name ClusterVisionOS v4.
+
+
+In 2009, Bright Computing was spun out of ClusterVision. ClusterVisionOS was renamed Bright Cluster Manager, and van Leeuwen was named Bright Computing’s CEO.
+
+
+In February 2016, Bright appointed Bill Wagner as chief executive officer. Matthijs van Leeuwen became chief strategy officer, and then left the company and board of directors in 2018.
+
+
+In January 2022 Bright was acquired by Nvidia. Nvidia cited using Bright's Amsterdam facility as a development center. The acquisition occurred after several layoffs under Bill Wagner.
+
+
+Customers
+
+Early customers included Boeing, Sandia National Laboratories, Virginia Tech, Hewlett Packard, NSA, and Drexel University. Many early customers were introduced through resellers, including SICORP, Cray, Dell,  and Advanced HPC.
+
+
+As of 2019, the company had more than 700 customers, including more than fifty Fortune 500 Companies.
+
+
+Products and services
+
+Bright Cluster Manager for HPC lets customers deploy and manage complete clusters. It provides management for the hardware, the operating system, the HPC software, and users.
+
+
+In 2014, the company announced Bright OpenStack, software to deploy, provision, and manage OpenStack-based private cloud infrastructures.
+
+
+In 2016, Bright started bundling several machine learning frameworks and associated tools and libraries with the product, to make it very easy to get machine learning workload up and running on a Bright cluster.
+
+
+In December 2018, version 8.2 was released, which introduced support for the ARM64 architecture, edge capabilities to build clusters spread out over many different geographical locations, improved workload accounting & reporting features, as well as many improvements to Bright's integration with Kubernetes.
+
+
+Bright Cluster Manager software was frequently sold through original equipment manufacturer (OEM) resellers, including Dell and HPE.
+
+
+In version 10, Bright Cluster Manager was merged into the NVIDIA Base Command Manager.
+
+
+Bright Computing was covered by Software Magazine and Yahoo! Finance, among other publications.
+
+
+Awards
+
+In 2016, Bright Computing was awarded a €1.5M Horizon 2020 SME Instrument grant from the European Commission.
+
+
+Bright Computing was one of only 33 grant recipients from 960 submitted proposals. In its category only 5 out of 260 grants were awarded.
+
+
+References
+

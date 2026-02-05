@@ -4,3 +4,7 @@ langchain_text_splitters
 langchain_openai
 langchain_chroma
 python_dotenv
+semantic-chunker-langchain
+"unstructured[all-docs]" 
+rank_bm25
+langchain_cohere
